@@ -37,4 +37,4 @@ for i in range(4):
         button.grid(row=i, column=j, padx=10, pady=10, ipadx=10, ipady=10)
         button.bind("<Button-1>", click)
 
-root.mainloop()
+
